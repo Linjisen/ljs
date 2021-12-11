@@ -1,0 +1,15 @@
+Import('RTT_ROOT')
+Import('rtconfig')
+
+
+from building import *
+
+cwd = GetCurrentDir()
+src = Glob('*.c')
+
+libs = ['vtbk']+['vt_ops']
+libpath = [cwd]
+CPPPATH = [cwd,os.path.join(cwd,'..','flip_check')]
+group = DefineGroup('picture_book', src, depend = [''], CPPPATH = CPPPATH,LIBS = libs, LIBPATH = libpath)
+#USING_PICTURE_BOOK
+Return('group')

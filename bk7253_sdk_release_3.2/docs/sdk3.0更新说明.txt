@@ -1,0 +1,13 @@
+SDK的更新描述：
+1、新增BLE配网；
+2、新增ap以及ezconfig配网；
+3、支持littlefs文件系统；
+4、修改网络接口；
+
+lib更新描述：
+1、更新wifi mac层，修复连接ap的一些兼容性问题，降低连接网络连时的功耗，提供相关接口；
+2、更新播放器版本1.2.7，删除play list接口。根据需求选择各种不同RAM的player lib；
+
+boot的更新描述：
+1、支持sd卡及外部flash的OTA；
+2、支持boot在OTA期间设置指定gpio的输出状态；

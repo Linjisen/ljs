@@ -1,0 +1,11 @@
+from building import *
+
+cwd     = GetCurrentDir()
+src     = Glob('*.c')
+LIBS    = ["librtp_gcc.a"]
+libpath = [cwd]
+CPPPATH = [os.path.join(cwd,'..')]
+
+group = DefineGroup('rtsp_server', src, depend = [''], CPPPATH = CPPPATH,LIBS=LIBS, LIBPATH = libpath)
+
+Return('group')

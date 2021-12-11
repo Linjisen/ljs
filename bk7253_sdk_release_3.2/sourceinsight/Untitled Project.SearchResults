@@ -1,0 +1,36 @@
+---- BK_PARTITION_RF_FIRMWARE Matches (35 in 5 files) ----
+BkDriverFlash.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\user_driver):    [BK_PARTITION_RF_FIRMWARE] =
+BkDriverFlash.h (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\user_driver):    BK_PARTITION_RF_FIRMWARE,
+command_line.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\uart_debug):		bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):    bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):    bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):    bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231U.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231U.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231U.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):    bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231U.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231U.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231U.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231U.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231U.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231U.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231U.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):    bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231U.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231U.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):    bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231U.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231U.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231U.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231U.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
+manual_cal_bk7231U.c (E:\bolen_jie\BELON_WORK_JIE\BK7253\bk7253 design kit 3.2\sdk\bk7253_sdk_release_3.2\beken378\func\bk7011_cal):	bk_logic_partition_t *pt = bk_flash_get_info(BK_PARTITION_RF_FIRMWARE);
